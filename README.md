@@ -1,14 +1,16 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! !!!!
+> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career!
 
 ----
 
 # Every Programmer Should Know :thinking:
-A collection of (mostly) technical things every software developer should know.  
+A collection of (mostly) technical things every software developer should know.  Phải học viết code tí ở chỗ này
+Phải học viết code tí ở chỗ này
 
 :point_up: *These are resources I can recommend to every programmer regardless of their skill level or tech stack*
 
 Highly opinionated :bomb:. Not backed by science.  
 Comes in no particular order :recycle:
+Phải học viết code tí ở chỗ này
 
 U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
 U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
